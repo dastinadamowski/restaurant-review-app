@@ -1,6 +1,6 @@
 ## Project Overview:
 
-The project No.6 of the [Front-End Nanodegree Developer with Udacity](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+The project No.6 of the [Front-End Web Developer Nanodegree with Udacity](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
 In **Stage One**, I took a static design that lacks accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. Also, a service worker was added to begin the process of creating a seamless offline experience for users.
 
