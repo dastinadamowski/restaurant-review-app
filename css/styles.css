@@ -128,7 +128,7 @@ nav h1 a {
 /* ====================== Restaurant Filtering ====================== */
 
 .filter-options {
-  padding: 10px 0 3.5px;
+  padding: 10px 0 3px;
   width: 100%;
   height: auto;
   background-color: #2a2d35;
@@ -363,7 +363,7 @@ nav h1 a {
 
 @media (min-width: 640px) and (max-width: 929px) {
   #restaurants-list li {
-    max-width: 40%;
+    max-width: 42%;
   }
   #restaurants-list li h1 {
     height: 35px;
@@ -375,10 +375,10 @@ nav h1 a {
     max-width: 30%;
   }
   #restaurants-list p {
-    width: 65%;
+    width: 66%;
   }
-  #restaurants-list li h1 {
-    height: 40px;
+  #restaurants-list li h1 h2 {
+    height: 41px;
   }
   #restaurant-container {
     width: 45%;
@@ -399,7 +399,7 @@ nav h1 a {
   }
   .inside #map-container {
     background: blue none repeat scroll 0 0;
-    height: 90%;
+    height: 88%;
     position: fixed;
     right: 0;
     top: 80px;
